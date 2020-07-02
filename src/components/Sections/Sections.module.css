@@ -1,0 +1,9 @@
+.sections{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 40px 80px;
+    max-width: 800px;
+    box-sizing: border-box;
+    justify-content: center;
+}

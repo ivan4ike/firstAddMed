@@ -1,0 +1,30 @@
+.content{
+    display: flex;
+    float: left;
+    align-items: center;
+}
+
+.content input{
+    margin: 20px 15px;
+}
+
+.content .checkboxBtn{
+    margin: 4px;
+    border-radius: 3px;
+}
+
+.btn{
+    margin: auto;
+    border-radius: 7px;
+    padding: 6px 12px;
+    background-color: #039BE5;
+    margin: 0px 10px;
+}
+
+input{
+    border: solid #e0e0e0 1px;
+    border-radius: 3px;
+    height: 35px;
+    padding: 6px 12px;
+    box-sizing: border-box;
+}
