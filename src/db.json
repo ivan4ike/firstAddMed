@@ -20,7 +20,7 @@
         {"id":2, "date": "26.05.2020","time": "16:00", "client": "Молчанов Юрий Викторович", "status": true, "receiving": "Устинов Егор Киррилович", "claim": "Нет", "diagnosis": "Шикарный"},
         {"id":3, "date": "25.05.2020","time": "15:00", "client": "Светланов Михаил Семёнович", "status": true, "receiving": "Ушкин Степан Васильевич", "claim": "Нет", "diagnosis": "Шикарный"},
         {"id":4, "date": "24.05.2020","time": "15:00", "client": "Петров Сергей Александрович", "status": true, "receiving": "Брагин Иван Сергеевич", "claim": "Нет", "diagnosis": "Шикарный"},
-        {"id":5, "date": "23.05.2020","time": "09:00", "client": "Киреев Иван Евгеньевич", "status": true, "receiving": "Киреев Иван Евгеньевич", "claim": "Нет", "diagnosis": "Шикарный"}
+        {"id":5, "date": "02.07.2020","time": "09:00", "client": "Киреев Иван Евгеньевич", "status": true, "receiving": "Киреев Иван Евгеньевич", "claim": "Нет", "diagnosis": "Шикарный"}
     ],
     "events":[
         {"id" : 1, "img_preview" : "https://zrenie-samara.ru/media/events/DSC03442-1.jpg", "headline" : "Первый турнир по настольному теннису ", "date" : "19 мая 2016 г.", 
